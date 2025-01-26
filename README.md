@@ -1,7 +1,5 @@
 # Data-Analysis---Image-classification-model
 
-Problem Definition
-
 Objective:
 The objective of this project is to build an image classification model that can distinguish between two categories: cats and dogs. The model will classify images into either the 'Cat' or 'Dog' category based on the visual features present in the images. This task is often used in the domain of computer vision and has real-world applications such as automated image tagging, content filtering, and object detection in digital media.
 
